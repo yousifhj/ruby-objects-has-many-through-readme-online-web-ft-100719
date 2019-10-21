@@ -11,6 +11,10 @@ attr_accessor :waiter, :customer, :total, :tip
     @tip = tip
     @@sll << self 
   end 
+  
+  def self.all
+    @@all 
+  end 
 
 
 end
