@@ -17,4 +17,4 @@ class Customer
 end
 
 1. Completed a few labs. 
-2. 
+2. Get through Object Articture 
