@@ -16,6 +16,3 @@ class Customer
   
 end
 
-1. Completed a few labs. 
-2. Get through Object Architecture.
-3. 
