@@ -9,7 +9,7 @@ attr_accessor :waiter, :customer, :total, :tip
     @customer = customer
     @total = total
     @tip = tip
-    @@sll << self 
+    @@all << self 
   end 
   
   def self.all
