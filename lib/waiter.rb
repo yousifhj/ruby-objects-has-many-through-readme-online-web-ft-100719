@@ -4,4 +4,6 @@ class Waiter
   
   @@all =  [] 
   
+  def initialize:
+  
 end
