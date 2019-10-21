@@ -15,3 +15,6 @@ class Customer
   end 
   
 end
+
+1. Completed a few labs. 
+2. 
